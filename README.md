@@ -1,2 +1,2 @@
-# ServiceBusCloudExplorerSupport
-A public facing content and support repository for Cloud Bricks Service Bus Cloud explorer product.
+# Service Bus Cloud Explorer
+This repository contains public-facing documentation and a community support and feedback system for Service Bus Cloud Explorer.
