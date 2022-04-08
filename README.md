@@ -5,4 +5,4 @@ This repository contains public-facing documentation, community support and feed
 - [Report an issue or get support](../../discussions/categories/report-a-bug)
 - [Ask a question](../../discussions/categories/q-a)
 - [Have an idea?](../../discussions/categories/ideas)
-- [Announcements](../../discussions/announcements)
+- [Announcements](../../discussions/categories/announcements)
